@@ -1,0 +1,56 @@
+[TOC]
+
+
+# drunkwater
+
+
+```bash
+# @filename           :  leetcode
+# @author             :  Copyright (C) drunkwater
+# @date               :  Tue Jan 16 12:59:51 HKT 2018
+# @function           :  
+# @see                :  
+# @require            :  
+```
+
+
+```c
+/*
+# @filename           :  leetcode
+# @author             :  Copyright (C) drunkwater
+# @date               :  Tue Jan 16 12:59:51 HKT 2018
+# @function           :  
+# @see                :  
+# @require            :  
+*/
+```
+
+
+
+
+# code refactoring
+
+
+You can run bash `code_refactoring.bash` to reset the whole **leetcode** project.
+
+
+
+
+# clone leetcode
+
+
+c/c++ full answers and solutions of leetcode on Linux.
+
+
+leetcode, solutions, answers, c, cpp, full tested.
+
+
+`git clone https://github.com/drunkwater/leetcode.git --depth=1`
+
+
+
+
+# C and C++ solutions on leetcode
+
+
+[https://leetcode.com/](https://leetcode.com/)

@@ -1,0 +1,1 @@
+https://npm.taobao.org/mirrors/chromedriver/2.36/

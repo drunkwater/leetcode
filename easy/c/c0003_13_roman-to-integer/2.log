@@ -1,0 +1,2131 @@
+
+[21:38:13 Mar 26 2018]01_leetcode_0003.c : 344, enter 
+
+
+ [start]43773, 11777114 
+
+I [convert to] 1 
+
+V [convert to] 5 
+
+X [convert to] 10 
+
+L [convert to] 50 
+
+C [convert to] 100 
+
+D [convert to] 500 
+
+M [convert to] 1000 
+
+I [convert to] 1 
+
+II [convert to] 2 
+
+III [convert to] 3 
+
+IIII [convert to] 4 
+
+V [convert to] 5 
+
+VI [convert to] 6 
+
+VII [convert to] 7 
+
+VIII [convert to] 8 
+
+VIIII [convert to] 9 
+
+X [convert to] 10 
+
+IV [convert to] 4 
+
+IX [convert to] 9 
+
+I [convert to] 1 
+
+II [convert to] 2 
+
+III [convert to] 3 
+
+IV [convert to] 4 
+
+V [convert to] 5 
+
+VI [convert to] 6 
+
+VII [convert to] 7 
+
+VIII [convert to] 8 
+
+IX [convert to] 9 
+
+X [convert to] 10 
+
+X [convert to] 10 
+
+XX [convert to] 20 
+
+XXX [convert to] 30 
+
+XL [convert to] 40 
+
+L [convert to] 50 
+
+LX [convert to] 60 
+
+LXX [convert to] 70 
+
+LXXX [convert to] 80 
+
+XC [convert to] 90 
+
+C [convert to] 100 
+
+XL [convert to] 40 
+
+XC [convert to] 90 
+
+C [convert to] 100 
+
+CC [convert to] 200 
+
+CCC [convert to] 300 
+
+CD [convert to] 400 
+
+D [convert to] 500 
+
+DC [convert to] 600 
+
+DCC [convert to] 700 
+
+DCCC [convert to] 800 
+
+CM [convert to] 900 
+
+M [convert to] 1000 
+
+XXXIX [convert to] 39 
+
+CCXLVI [convert to] 246 
+
+CCVII [convert to] 207 
+
+MLXVI [convert to] 1066 
+
+I [convert to] 1 
+
+CI [convert to] 101 
+
+CCI [convert to] 201 
+
+CCCI [convert to] 301 
+
+CDI [convert to] 401 
+
+DI [convert to] 501 
+
+DCI [convert to] 601 
+
+DCCI [convert to] 701 
+
+DCCCI [convert to] 801 
+
+CMI [convert to] 901 
+
+II [convert to] 2 
+
+CII [convert to] 102 
+
+CCII [convert to] 202 
+
+CCCII [convert to] 302 
+
+CDII [convert to] 402 
+
+DII [convert to] 502 
+
+DCII [convert to] 602 
+
+DCCII [convert to] 702 
+
+DCCCII [convert to] 802 
+
+CMII [convert to] 902 
+
+III [convert to] 3 
+
+CIII [convert to] 103 
+
+CCIII [convert to] 203 
+
+CCCIII [convert to] 303 
+
+CDIII [convert to] 403 
+
+DIII [convert to] 503 
+
+DCIII [convert to] 603 
+
+DCCIII [convert to] 703 
+
+DCCCIII [convert to] 803 
+
+CMIII [convert to] 903 
+
+IV [convert to] 4 
+
+CIV [convert to] 104 
+
+CCIV [convert to] 204 
+
+CCCIV [convert to] 304 
+
+CDIV [convert to] 404 
+
+DIV [convert to] 504 
+
+DCIV [convert to] 604 
+
+DCCIV [convert to] 704 
+
+DCCCIV [convert to] 804 
+
+CMIV [convert to] 904 
+
+V [convert to] 5 
+
+CV [convert to] 105 
+
+CCV [convert to] 205 
+
+CCCV [convert to] 305 
+
+CDV [convert to] 405 
+
+DV [convert to] 505 
+
+DCV [convert to] 605 
+
+DCCV [convert to] 705 
+
+DCCCV [convert to] 805 
+
+CMV [convert to] 905 
+
+VI [convert to] 6 
+
+CVI [convert to] 106 
+
+CCVI [convert to] 206 
+
+CCCVI [convert to] 306 
+
+CDVI [convert to] 406 
+
+DVI [convert to] 506 
+
+DCVI [convert to] 606 
+
+DCCVI [convert to] 706 
+
+DCCCVI [convert to] 806 
+
+CMVI [convert to] 906 
+
+VII [convert to] 7 
+
+CVII [convert to] 107 
+
+CCVII [convert to] 207 
+
+CCCVII [convert to] 307 
+
+CDVII [convert to] 407 
+
+DVII [convert to] 507 
+
+DCVII [convert to] 607 
+
+DCCVII [convert to] 707 
+
+DCCCVII [convert to] 807 
+
+CMVII [convert to] 907 
+
+VIII [convert to] 8 
+
+CVIII [convert to] 108 
+
+CCVIII [convert to] 208 
+
+CCCVIII [convert to] 308 
+
+CDVIII [convert to] 408 
+
+DVIII [convert to] 508 
+
+DCVIII [convert to] 608 
+
+DCCVIII [convert to] 708 
+
+DCCCVIII [convert to] 808 
+
+CMVIII [convert to] 908 
+
+IX [convert to] 9 
+
+CIX [convert to] 109 
+
+CCIX [convert to] 209 
+
+CCCIX [convert to] 309 
+
+CDIX [convert to] 409 
+
+DIX [convert to] 509 
+
+DCIX [convert to] 609 
+
+DCCIX [convert to] 709 
+
+DCCCIX [convert to] 809 
+
+CMIX [convert to] 909 
+
+X [convert to] 10 
+
+CX [convert to] 110 
+
+CCX [convert to] 210 
+
+CCCX [convert to] 310 
+
+CDX [convert to] 410 
+
+DX [convert to] 510 
+
+DCX [convert to] 610 
+
+DCCX [convert to] 710 
+
+DCCCX [convert to] 810 
+
+CMX [convert to] 910 
+
+XI [convert to] 11 
+
+CXI [convert to] 111 
+
+CCXI [convert to] 211 
+
+CCCXI [convert to] 311 
+
+CDXI [convert to] 411 
+
+DXI [convert to] 511 
+
+DCXI [convert to] 611 
+
+DCCXI [convert to] 711 
+
+DCCCXI [convert to] 811 
+
+CMXI [convert to] 911 
+
+XII [convert to] 12 
+
+CXII [convert to] 112 
+
+CCXII [convert to] 212 
+
+CCCXII [convert to] 312 
+
+CDXII [convert to] 412 
+
+DXII [convert to] 512 
+
+DCXII [convert to] 612 
+
+DCCXII [convert to] 712 
+
+DCCCXII [convert to] 812 
+
+CMXII [convert to] 912 
+
+XIII [convert to] 13 
+
+CXIII [convert to] 113 
+
+CCXIII [convert to] 213 
+
+CCCXIII [convert to] 313 
+
+CDXIII [convert to] 413 
+
+DXIII [convert to] 513 
+
+DCXIII [convert to] 613 
+
+DCCXIII [convert to] 713 
+
+DCCCXIII [convert to] 813 
+
+CMXIII [convert to] 913 
+
+XIV [convert to] 14 
+
+CXIV [convert to] 114 
+
+CCXIV [convert to] 214 
+
+CCCXIV [convert to] 314 
+
+CDXIV [convert to] 414 
+
+DXIV [convert to] 514 
+
+DCXIV [convert to] 614 
+
+DCCXIV [convert to] 714 
+
+DCCCXIV [convert to] 814 
+
+CMXIV [convert to] 914 
+
+XV [convert to] 15 
+
+CXV [convert to] 115 
+
+CCXV [convert to] 215 
+
+CCCXV [convert to] 315 
+
+CDXV [convert to] 415 
+
+DXV [convert to] 515 
+
+DCXV [convert to] 615 
+
+DCCXV [convert to] 715 
+
+DCCCXV [convert to] 815 
+
+CMXV [convert to] 915 
+
+XVI [convert to] 16 
+
+CXVI [convert to] 116 
+
+CCXVI [convert to] 216 
+
+CCCXVI [convert to] 316 
+
+CDXVI [convert to] 416 
+
+DXVI [convert to] 516 
+
+DCXVI [convert to] 616 
+
+DCCXVI [convert to] 716 
+
+DCCCXVI [convert to] 816 
+
+CMXVI [convert to] 916 
+
+XVII [convert to] 17 
+
+CXVII [convert to] 117 
+
+CCXVII [convert to] 217 
+
+CCCXVII [convert to] 317 
+
+CDXVII [convert to] 417 
+
+DXVII [convert to] 517 
+
+DCXVII [convert to] 617 
+
+DCCXVII [convert to] 717 
+
+DCCCXVII [convert to] 817 
+
+CMXVII [convert to] 917 
+
+XVIII [convert to] 18 
+
+CXVIII [convert to] 118 
+
+CCXVIII [convert to] 218 
+
+CCCXVIII [convert to] 318 
+
+CDXVIII [convert to] 418 
+
+DXVIII [convert to] 518 
+
+DCXVIII [convert to] 618 
+
+DCCXVIII [convert to] 718 
+
+DCCCXVIII [convert to] 818 
+
+CMXVIII [convert to] 918 
+
+XIX [convert to] 19 
+
+CXIX [convert to] 119 
+
+CCXIX [convert to] 219 
+
+CCCXIX [convert to] 319 
+
+CDXIX [convert to] 419 
+
+DXIX [convert to] 519 
+
+DCXIX [convert to] 619 
+
+DCCXIX [convert to] 719 
+
+DCCCXIX [convert to] 819 
+
+CMXIX [convert to] 919 
+
+XX [convert to] 20 
+
+CXX [convert to] 120 
+
+CCXX [convert to] 220 
+
+CCCXX [convert to] 320 
+
+CDXX [convert to] 420 
+
+DXX [convert to] 520 
+
+DCXX [convert to] 620 
+
+DCCXX [convert to] 720 
+
+DCCCXX [convert to] 820 
+
+CMXX [convert to] 920 
+
+XXI [convert to] 21 
+
+CXXI [convert to] 121 
+
+CCXXI [convert to] 221 
+
+CCCXXI [convert to] 321 
+
+CDXXI [convert to] 421 
+
+DXXI [convert to] 521 
+
+DCXXI [convert to] 621 
+
+DCCXXI [convert to] 721 
+
+DCCCXXI [convert to] 821 
+
+CMXXI [convert to] 921 
+
+XXII [convert to] 22 
+
+CXXII [convert to] 122 
+
+CCXXII [convert to] 222 
+
+CCCXXII [convert to] 322 
+
+CDXXII [convert to] 422 
+
+DXXII [convert to] 522 
+
+DCXXII [convert to] 622 
+
+DCCXXII [convert to] 722 
+
+DCCCXXII [convert to] 822 
+
+CMXXII [convert to] 922 
+
+XXIII [convert to] 23 
+
+CXXIII [convert to] 123 
+
+CCXXIII [convert to] 223 
+
+CCCXXIII [convert to] 323 
+
+CDXXIII [convert to] 423 
+
+DXXIII [convert to] 523 
+
+DCXXIII [convert to] 623 
+
+DCCXXIII [convert to] 723 
+
+DCCCXXIII [convert to] 823 
+
+CMXXIII [convert to] 923 
+
+XXIV [convert to] 24 
+
+CXXIV [convert to] 124 
+
+CCXXIV [convert to] 224 
+
+CCCXXIV [convert to] 324 
+
+CDXXIV [convert to] 424 
+
+DXXIV [convert to] 524 
+
+DCXXIV [convert to] 624 
+
+DCCXXIV [convert to] 724 
+
+DCCCXXIV [convert to] 824 
+
+CMXXIV [convert to] 924 
+
+XXV [convert to] 25 
+
+CXXV [convert to] 125 
+
+CCXXV [convert to] 225 
+
+CCCXXV [convert to] 325 
+
+CDXXV [convert to] 425 
+
+DXXV [convert to] 525 
+
+DCXXV [convert to] 625 
+
+DCCXXV [convert to] 725 
+
+DCCCXXV [convert to] 825 
+
+CMXXV [convert to] 925 
+
+XXVI [convert to] 26 
+
+CXXVI [convert to] 126 
+
+CCXXVI [convert to] 226 
+
+CCCXXVI [convert to] 326 
+
+CDXXVI [convert to] 426 
+
+DXXVI [convert to] 526 
+
+DCXXVI [convert to] 626 
+
+DCCXXVI [convert to] 726 
+
+DCCCXXVI [convert to] 826 
+
+CMXXVI [convert to] 926 
+
+XXVII [convert to] 27 
+
+CXXVII [convert to] 127 
+
+CCXXVII [convert to] 227 
+
+CCCXXVII [convert to] 327 
+
+CDXXVII [convert to] 427 
+
+DXXVII [convert to] 527 
+
+DCXXVII [convert to] 627 
+
+DCCXXVII [convert to] 727 
+
+DCCCXXVII [convert to] 827 
+
+CMXXVII [convert to] 927 
+
+XXVIII [convert to] 28 
+
+CXXVIII [convert to] 128 
+
+CCXXVIII [convert to] 228 
+
+CCCXXVIII [convert to] 328 
+
+CDXXVIII [convert to] 428 
+
+DXXVIII [convert to] 528 
+
+DCXXVIII [convert to] 628 
+
+DCCXXVIII [convert to] 728 
+
+DCCCXXVIII [convert to] 828 
+
+CMXXVIII [convert to] 928 
+
+XXIX [convert to] 29 
+
+CXXIX [convert to] 129 
+
+CCXXIX [convert to] 229 
+
+CCCXXIX [convert to] 329 
+
+CDXXIX [convert to] 429 
+
+DXXIX [convert to] 529 
+
+DCXXIX [convert to] 629 
+
+DCCXXIX [convert to] 729 
+
+DCCCXXIX [convert to] 829 
+
+CMXXIX [convert to] 929 
+
+XXX [convert to] 30 
+
+CXXX [convert to] 130 
+
+CCXXX [convert to] 230 
+
+CCCXXX [convert to] 330 
+
+CDXXX [convert to] 430 
+
+DXXX [convert to] 530 
+
+DCXXX [convert to] 630 
+
+DCCXXX [convert to] 730 
+
+DCCCXXX [convert to] 830 
+
+CMXXX [convert to] 930 
+
+XXXI [convert to] 31 
+
+CXXXI [convert to] 131 
+
+CCXXXI [convert to] 231 
+
+CCCXXXI [convert to] 331 
+
+CDXXXI [convert to] 431 
+
+DXXXI [convert to] 531 
+
+DCXXXI [convert to] 631 
+
+DCCXXXI [convert to] 731 
+
+DCCCXXXI [convert to] 831 
+
+CMXXXI [convert to] 931 
+
+XXXII [convert to] 32 
+
+CXXXII [convert to] 132 
+
+CCXXXII [convert to] 232 
+
+CCCXXXII [convert to] 332 
+
+CDXXXII [convert to] 432 
+
+DXXXII [convert to] 532 
+
+DCXXXII [convert to] 632 
+
+DCCXXXII [convert to] 732 
+
+DCCCXXXII [convert to] 832 
+
+CMXXXII [convert to] 932 
+
+XXXIII [convert to] 33 
+
+CXXXIII [convert to] 133 
+
+CCXXXIII [convert to] 233 
+
+CCCXXXIII [convert to] 333 
+
+CDXXXIII [convert to] 433 
+
+DXXXIII [convert to] 533 
+
+DCXXXIII [convert to] 633 
+
+DCCXXXIII [convert to] 733 
+
+DCCCXXXIII [convert to] 833 
+
+CMXXXIII [convert to] 933 
+
+XXXIV [convert to] 34 
+
+CXXXIV [convert to] 134 
+
+CCXXXIV [convert to] 234 
+
+CCCXXXIV [convert to] 334 
+
+CDXXXIV [convert to] 434 
+
+DXXXIV [convert to] 534 
+
+DCXXXIV [convert to] 634 
+
+DCCXXXIV [convert to] 734 
+
+DCCCXXXIV [convert to] 834 
+
+CMXXXIV [convert to] 934 
+
+XXXV [convert to] 35 
+
+CXXXV [convert to] 135 
+
+CCXXXV [convert to] 235 
+
+CCCXXXV [convert to] 335 
+
+CDXXXV [convert to] 435 
+
+DXXXV [convert to] 535 
+
+DCXXXV [convert to] 635 
+
+DCCXXXV [convert to] 735 
+
+DCCCXXXV [convert to] 835 
+
+CMXXXV [convert to] 935 
+
+XXXVI [convert to] 36 
+
+CXXXVI [convert to] 136 
+
+CCXXXVI [convert to] 236 
+
+CCCXXXVI [convert to] 336 
+
+CDXXXVI [convert to] 436 
+
+DXXXVI [convert to] 536 
+
+DCXXXVI [convert to] 636 
+
+DCCXXXVI [convert to] 736 
+
+DCCCXXXVI [convert to] 836 
+
+CMXXXVI [convert to] 936 
+
+XXXVII [convert to] 37 
+
+CXXXVII [convert to] 137 
+
+CCXXXVII [convert to] 237 
+
+CCCXXXVII [convert to] 337 
+
+CDXXXVII [convert to] 437 
+
+DXXXVII [convert to] 537 
+
+DCXXXVII [convert to] 637 
+
+DCCXXXVII [convert to] 737 
+
+DCCCXXXVII [convert to] 837 
+
+CMXXXVII [convert to] 937 
+
+XXXVIII [convert to] 38 
+
+CXXXVIII [convert to] 138 
+
+CCXXXVIII [convert to] 238 
+
+CCCXXXVIII [convert to] 338 
+
+CDXXXVIII [convert to] 438 
+
+DXXXVIII [convert to] 538 
+
+DCXXXVIII [convert to] 638 
+
+DCCXXXVIII [convert to] 738 
+
+DCCCXXXVIII [convert to] 838 
+
+CMXXXVIII [convert to] 938 
+
+XXXIX [convert to] 39 
+
+CXXXIX [convert to] 139 
+
+CCXXXIX [convert to] 239 
+
+CCCXXXIX [convert to] 339 
+
+CDXXXIX [convert to] 439 
+
+DXXXIX [convert to] 539 
+
+DCXXXIX [convert to] 639 
+
+DCCXXXIX [convert to] 739 
+
+DCCCXXXIX [convert to] 839 
+
+CMXXXIX [convert to] 939 
+
+XL [convert to] 40 
+
+CXL [convert to] 140 
+
+CCXL [convert to] 240 
+
+CCCXL [convert to] 340 
+
+CDXL [convert to] 440 
+
+DXL [convert to] 540 
+
+DCXL [convert to] 640 
+
+DCCXL [convert to] 740 
+
+DCCCXL [convert to] 840 
+
+CMXL [convert to] 940 
+
+XLI [convert to] 41 
+
+CXLI [convert to] 141 
+
+CCXLI [convert to] 241 
+
+CCCXLI [convert to] 341 
+
+CDXLI [convert to] 441 
+
+DXLI [convert to] 541 
+
+DCXLI [convert to] 641 
+
+DCCXLI [convert to] 741 
+
+DCCCXLI [convert to] 841 
+
+CMXLI [convert to] 941 
+
+XLII [convert to] 42 
+
+CXLII [convert to] 142 
+
+CCXLII [convert to] 242 
+
+CCCXLII [convert to] 342 
+
+CDXLII [convert to] 442 
+
+DXLII [convert to] 542 
+
+DCXLII [convert to] 642 
+
+DCCXLII [convert to] 742 
+
+DCCCXLII [convert to] 842 
+
+CMXLII [convert to] 942 
+
+XLIII [convert to] 43 
+
+CXLIII [convert to] 143 
+
+CCXLIII [convert to] 243 
+
+CCCXLIII [convert to] 343 
+
+CDXLIII [convert to] 443 
+
+DXLIII [convert to] 543 
+
+DCXLIII [convert to] 643 
+
+DCCXLIII [convert to] 743 
+
+DCCCXLIII [convert to] 843 
+
+CMXLIII [convert to] 943 
+
+XLIV [convert to] 44 
+
+CXLIV [convert to] 144 
+
+CCXLIV [convert to] 244 
+
+CCCXLIV [convert to] 344 
+
+CDXLIV [convert to] 444 
+
+DXLIV [convert to] 544 
+
+DCXLIV [convert to] 644 
+
+DCCXLIV [convert to] 744 
+
+DCCCXLIV [convert to] 844 
+
+CMXLIV [convert to] 944 
+
+XLV [convert to] 45 
+
+CXLV [convert to] 145 
+
+CCXLV [convert to] 245 
+
+CCCXLV [convert to] 345 
+
+CDXLV [convert to] 445 
+
+DXLV [convert to] 545 
+
+DCXLV [convert to] 645 
+
+DCCXLV [convert to] 745 
+
+DCCCXLV [convert to] 845 
+
+CMXLV [convert to] 945 
+
+XLVI [convert to] 46 
+
+CXLVI [convert to] 146 
+
+CCXLVI [convert to] 246 
+
+CCCXLVI [convert to] 346 
+
+CDXLVI [convert to] 446 
+
+DXLVI [convert to] 546 
+
+DCXLVI [convert to] 646 
+
+DCCXLVI [convert to] 746 
+
+DCCCXLVI [convert to] 846 
+
+CMXLVI [convert to] 946 
+
+XLVII [convert to] 47 
+
+CXLVII [convert to] 147 
+
+CCXLVII [convert to] 247 
+
+CCCXLVII [convert to] 347 
+
+CDXLVII [convert to] 447 
+
+DXLVII [convert to] 547 
+
+DCXLVII [convert to] 647 
+
+DCCXLVII [convert to] 747 
+
+DCCCXLVII [convert to] 847 
+
+CMXLVII [convert to] 947 
+
+XLVIII [convert to] 48 
+
+CXLVIII [convert to] 148 
+
+CCXLVIII [convert to] 248 
+
+CCCXLVIII [convert to] 348 
+
+CDXLVIII [convert to] 448 
+
+DXLVIII [convert to] 548 
+
+DCXLVIII [convert to] 648 
+
+DCCXLVIII [convert to] 748 
+
+DCCCXLVIII [convert to] 848 
+
+CMXLVIII [convert to] 948 
+
+XLIX [convert to] 49 
+
+CXLIX [convert to] 149 
+
+CCXLIX [convert to] 249 
+
+CCCXLIX [convert to] 349 
+
+CDXLIX [convert to] 449 
+
+DXLIX [convert to] 549 
+
+DCXLIX [convert to] 649 
+
+DCCXLIX [convert to] 749 
+
+DCCCXLIX [convert to] 849 
+
+CMXLIX [convert to] 949 
+
+L [convert to] 50 
+
+CL [convert to] 150 
+
+CCL [convert to] 250 
+
+CCCL [convert to] 350 
+
+CDL [convert to] 450 
+
+DL [convert to] 550 
+
+DCL [convert to] 650 
+
+DCCL [convert to] 750 
+
+DCCCL [convert to] 850 
+
+CML [convert to] 950 
+
+LI [convert to] 51 
+
+CLI [convert to] 151 
+
+CCLI [convert to] 251 
+
+CCCLI [convert to] 351 
+
+CDLI [convert to] 451 
+
+DLI [convert to] 551 
+
+DCLI [convert to] 651 
+
+DCCLI [convert to] 751 
+
+DCCCLI [convert to] 851 
+
+CMLI [convert to] 951 
+
+LII [convert to] 52 
+
+CLII [convert to] 152 
+
+CCLII [convert to] 252 
+
+CCCLII [convert to] 352 
+
+CDLII [convert to] 452 
+
+DLII [convert to] 552 
+
+DCLII [convert to] 652 
+
+DCCLII [convert to] 752 
+
+DCCCLII [convert to] 852 
+
+CMLII [convert to] 952 
+
+LIII [convert to] 53 
+
+CLIII [convert to] 153 
+
+CCLIII [convert to] 253 
+
+CCCLIII [convert to] 353 
+
+CDLIII [convert to] 453 
+
+DLIII [convert to] 553 
+
+DCLIII [convert to] 653 
+
+DCCLIII [convert to] 753 
+
+DCCCLIII [convert to] 853 
+
+CMLIII [convert to] 953 
+
+LIV [convert to] 54 
+
+CLIV [convert to] 154 
+
+CCLIV [convert to] 254 
+
+CCCLIV [convert to] 354 
+
+CDLIV [convert to] 454 
+
+DLIV [convert to] 554 
+
+DCLIV [convert to] 654 
+
+DCCLIV [convert to] 754 
+
+DCCCLIV [convert to] 854 
+
+CMLIV [convert to] 954 
+
+LV [convert to] 55 
+
+CLV [convert to] 155 
+
+CCLV [convert to] 255 
+
+CCCLV [convert to] 355 
+
+CDLV [convert to] 455 
+
+DLV [convert to] 555 
+
+DCLV [convert to] 655 
+
+DCCLV [convert to] 755 
+
+DCCCLV [convert to] 855 
+
+CMLV [convert to] 955 
+
+LVI [convert to] 56 
+
+CLVI [convert to] 156 
+
+CCLVI [convert to] 256 
+
+CCCLVI [convert to] 356 
+
+CDLVI [convert to] 456 
+
+DLVI [convert to] 556 
+
+DCLVI [convert to] 656 
+
+DCCLVI [convert to] 756 
+
+DCCCLVI [convert to] 856 
+
+CMLVI [convert to] 956 
+
+LVII [convert to] 57 
+
+CLVII [convert to] 157 
+
+CCLVII [convert to] 257 
+
+CCCLVII [convert to] 357 
+
+CDLVII [convert to] 457 
+
+DLVII [convert to] 557 
+
+DCLVII [convert to] 657 
+
+DCCLVII [convert to] 757 
+
+DCCCLVII [convert to] 857 
+
+CMLVII [convert to] 957 
+
+LVIII [convert to] 58 
+
+CLVIII [convert to] 158 
+
+CCLVIII [convert to] 258 
+
+CCCLVIII [convert to] 358 
+
+CDLVIII [convert to] 458 
+
+DLVIII [convert to] 558 
+
+DCLVIII [convert to] 658 
+
+DCCLVIII [convert to] 758 
+
+DCCCLVIII [convert to] 858 
+
+CMLVIII [convert to] 958 
+
+LIX [convert to] 59 
+
+CLIX [convert to] 159 
+
+CCLIX [convert to] 259 
+
+CCCLIX [convert to] 359 
+
+CDLIX [convert to] 459 
+
+DLIX [convert to] 559 
+
+DCLIX [convert to] 659 
+
+DCCLIX [convert to] 759 
+
+DCCCLIX [convert to] 859 
+
+CMLIX [convert to] 959 
+
+LX [convert to] 60 
+
+CLX [convert to] 160 
+
+CCLX [convert to] 260 
+
+CCCLX [convert to] 360 
+
+CDLX [convert to] 460 
+
+DLX [convert to] 560 
+
+DCLX [convert to] 660 
+
+DCCLX [convert to] 760 
+
+DCCCLX [convert to] 860 
+
+CMLX [convert to] 960 
+
+LXI [convert to] 61 
+
+CLXI [convert to] 161 
+
+CCLXI [convert to] 261 
+
+CCCLXI [convert to] 361 
+
+CDLXI [convert to] 461 
+
+DLXI [convert to] 561 
+
+DCLXI [convert to] 661 
+
+DCCLXI [convert to] 761 
+
+DCCCLXI [convert to] 861 
+
+CMLXI [convert to] 961 
+
+LXII [convert to] 62 
+
+CLXII [convert to] 162 
+
+CCLXII [convert to] 262 
+
+CCCLXII [convert to] 362 
+
+CDLXII [convert to] 462 
+
+DLXII [convert to] 562 
+
+DCLXII [convert to] 662 
+
+DCCLXII [convert to] 762 
+
+DCCCLXII [convert to] 862 
+
+CMLXII [convert to] 962 
+
+LXIII [convert to] 63 
+
+CLXIII [convert to] 163 
+
+CCLXIII [convert to] 263 
+
+CCCLXIII [convert to] 363 
+
+CDLXIII [convert to] 463 
+
+DLXIII [convert to] 563 
+
+DCLXIII [convert to] 663 
+
+DCCLXIII [convert to] 763 
+
+DCCCLXIII [convert to] 863 
+
+CMLXIII [convert to] 963 
+
+LXIV [convert to] 64 
+
+CLXIV [convert to] 164 
+
+CCLXIV [convert to] 264 
+
+CCCLXIV [convert to] 364 
+
+CDLXIV [convert to] 464 
+
+DLXIV [convert to] 564 
+
+DCLXIV [convert to] 664 
+
+DCCLXIV [convert to] 764 
+
+DCCCLXIV [convert to] 864 
+
+CMLXIV [convert to] 964 
+
+LXV [convert to] 65 
+
+CLXV [convert to] 165 
+
+CCLXV [convert to] 265 
+
+CCCLXV [convert to] 365 
+
+CDLXV [convert to] 465 
+
+DLXV [convert to] 565 
+
+DCLXV [convert to] 665 
+
+DCCLXV [convert to] 765 
+
+DCCCLXV [convert to] 865 
+
+CMLXV [convert to] 965 
+
+LXVI [convert to] 66 
+
+CLXVI [convert to] 166 
+
+CCLXVI [convert to] 266 
+
+CCCLXVI [convert to] 366 
+
+CDLXVI [convert to] 466 
+
+DLXVI [convert to] 566 
+
+DCLXVI [convert to] 666 
+
+DCCLXVI [convert to] 766 
+
+DCCCLXVI [convert to] 866 
+
+CMLXVI [convert to] 966 
+
+LXVII [convert to] 67 
+
+CLXVII [convert to] 167 
+
+CCLXVII [convert to] 267 
+
+CCCLXVII [convert to] 367 
+
+CDLXVII [convert to] 467 
+
+DLXVII [convert to] 567 
+
+DCLXVII [convert to] 667 
+
+DCCLXVII [convert to] 767 
+
+DCCCLXVII [convert to] 867 
+
+CMLXVII [convert to] 967 
+
+LXVIII [convert to] 68 
+
+CLXVIII [convert to] 168 
+
+CCLXVIII [convert to] 268 
+
+CCCLXVIII [convert to] 368 
+
+CDLXVIII [convert to] 468 
+
+DLXVIII [convert to] 568 
+
+DCLXVIII [convert to] 668 
+
+DCCLXVIII [convert to] 768 
+
+DCCCLXVIII [convert to] 868 
+
+CMLXVIII [convert to] 968 
+
+LXIX [convert to] 69 
+
+CLXIX [convert to] 169 
+
+CCLXIX [convert to] 269 
+
+CCCLXIX [convert to] 369 
+
+CDLXIX [convert to] 469 
+
+DLXIX [convert to] 569 
+
+DCLXIX [convert to] 669 
+
+DCCLXIX [convert to] 769 
+
+DCCCLXIX [convert to] 869 
+
+CMLXIX [convert to] 969 
+
+LXX [convert to] 70 
+
+CLXX [convert to] 170 
+
+CCLXX [convert to] 270 
+
+CCCLXX [convert to] 370 
+
+CDLXX [convert to] 470 
+
+DLXX [convert to] 570 
+
+DCLXX [convert to] 670 
+
+DCCLXX [convert to] 770 
+
+DCCCLXX [convert to] 870 
+
+CMLXX [convert to] 970 
+
+LXXI [convert to] 71 
+
+CLXXI [convert to] 171 
+
+CCLXXI [convert to] 271 
+
+CCCLXXI [convert to] 371 
+
+CDLXXI [convert to] 471 
+
+DLXXI [convert to] 571 
+
+DCLXXI [convert to] 671 
+
+DCCLXXI [convert to] 771 
+
+DCCCLXXI [convert to] 871 
+
+CMLXXI [convert to] 971 
+
+LXXII [convert to] 72 
+
+CLXXII [convert to] 172 
+
+CCLXXII [convert to] 272 
+
+CCCLXXII [convert to] 372 
+
+CDLXXII [convert to] 472 
+
+DLXXII [convert to] 572 
+
+DCLXXII [convert to] 672 
+
+DCCLXXII [convert to] 772 
+
+DCCCLXXII [convert to] 872 
+
+CMLXXII [convert to] 972 
+
+LXXIII [convert to] 73 
+
+CLXXIII [convert to] 173 
+
+CCLXXIII [convert to] 273 
+
+CCCLXXIII [convert to] 373 
+
+CDLXXIII [convert to] 473 
+
+DLXXIII [convert to] 573 
+
+DCLXXIII [convert to] 673 
+
+DCCLXXIII [convert to] 773 
+
+DCCCLXXIII [convert to] 873 
+
+CMLXXIII [convert to] 973 
+
+LXXIV [convert to] 74 
+
+CLXXIV [convert to] 174 
+
+CCLXXIV [convert to] 274 
+
+CCCLXXIV [convert to] 374 
+
+CDLXXIV [convert to] 474 
+
+DLXXIV [convert to] 574 
+
+DCLXXIV [convert to] 674 
+
+DCCLXXIV [convert to] 774 
+
+DCCCLXXIV [convert to] 874 
+
+CMLXXIV [convert to] 974 
+
+LXXV [convert to] 75 
+
+CLXXV [convert to] 175 
+
+CCLXXV [convert to] 275 
+
+CCCLXXV [convert to] 375 
+
+CDLXXV [convert to] 475 
+
+DLXXV [convert to] 575 
+
+DCLXXV [convert to] 675 
+
+DCCLXXV [convert to] 775 
+
+DCCCLXXV [convert to] 875 
+
+CMLXXV [convert to] 975 
+
+LXXVI [convert to] 76 
+
+CLXXVI [convert to] 176 
+
+CCLXXVI [convert to] 276 
+
+CCCLXXVI [convert to] 376 
+
+CDLXXVI [convert to] 476 
+
+DLXXVI [convert to] 576 
+
+DCLXXVI [convert to] 676 
+
+DCCLXXVI [convert to] 776 
+
+DCCCLXXVI [convert to] 876 
+
+CMLXXVI [convert to] 976 
+
+LXXVII [convert to] 77 
+
+CLXXVII [convert to] 177 
+
+CCLXXVII [convert to] 277 
+
+CCCLXXVII [convert to] 377 
+
+CDLXXVII [convert to] 477 
+
+DLXXVII [convert to] 577 
+
+DCLXXVII [convert to] 677 
+
+DCCLXXVII [convert to] 777 
+
+DCCCLXXVII [convert to] 877 
+
+CMLXXVII [convert to] 977 
+
+LXXVIII [convert to] 78 
+
+CLXXVIII [convert to] 178 
+
+CCLXXVIII [convert to] 278 
+
+CCCLXXVIII [convert to] 378 
+
+CDLXXVIII [convert to] 478 
+
+DLXXVIII [convert to] 578 
+
+DCLXXVIII [convert to] 678 
+
+DCCLXXVIII [convert to] 778 
+
+DCCCLXXVIII [convert to] 878 
+
+CMLXXVIII [convert to] 978 
+
+LXXIX [convert to] 79 
+
+CLXXIX [convert to] 179 
+
+CCLXXIX [convert to] 279 
+
+CCCLXXIX [convert to] 379 
+
+CDLXXIX [convert to] 479 
+
+DLXXIX [convert to] 579 
+
+DCLXXIX [convert to] 679 
+
+DCCLXXIX [convert to] 779 
+
+DCCCLXXIX [convert to] 879 
+
+CMLXXIX [convert to] 979 
+
+LXXX [convert to] 80 
+
+CLXXX [convert to] 180 
+
+CCLXXX [convert to] 280 
+
+CCCLXXX [convert to] 380 
+
+CDLXXX [convert to] 480 
+
+DLXXX [convert to] 580 
+
+DCLXXX [convert to] 680 
+
+DCCLXXX [convert to] 780 
+
+DCCCLXXX [convert to] 880 
+
+CMLXXX [convert to] 980 
+
+LXXXI [convert to] 81 
+
+CLXXXI [convert to] 181 
+
+CCLXXXI [convert to] 281 
+
+CCCLXXXI [convert to] 381 
+
+CDLXXXI [convert to] 481 
+
+DLXXXI [convert to] 581 
+
+DCLXXXI [convert to] 681 
+
+DCCLXXXI [convert to] 781 
+
+DCCCLXXXI [convert to] 881 
+
+CMLXXXI [convert to] 981 
+
+LXXXII [convert to] 82 
+
+CLXXXII [convert to] 182 
+
+CCLXXXII [convert to] 282 
+
+CCCLXXXII [convert to] 382 
+
+CDLXXXII [convert to] 482 
+
+DLXXXII [convert to] 582 
+
+DCLXXXII [convert to] 682 
+
+DCCLXXXII [convert to] 782 
+
+DCCCLXXXII [convert to] 882 
+
+CMLXXXII [convert to] 982 
+
+LXXXIII [convert to] 83 
+
+CLXXXIII [convert to] 183 
+
+CCLXXXIII [convert to] 283 
+
+CCCLXXXIII [convert to] 383 
+
+CDLXXXIII [convert to] 483 
+
+DLXXXIII [convert to] 583 
+
+DCLXXXIII [convert to] 683 
+
+DCCLXXXIII [convert to] 783 
+
+DCCCLXXXIII [convert to] 883 
+
+CMLXXXIII [convert to] 983 
+
+LXXXIV [convert to] 84 
+
+CLXXXIV [convert to] 184 
+
+CCLXXXIV [convert to] 284 
+
+CCCLXXXIV [convert to] 384 
+
+CDLXXXIV [convert to] 484 
+
+DLXXXIV [convert to] 584 
+
+DCLXXXIV [convert to] 684 
+
+DCCLXXXIV [convert to] 784 
+
+DCCCLXXXIV [convert to] 884 
+
+CMLXXXIV [convert to] 984 
+
+LXXXV [convert to] 85 
+
+CLXXXV [convert to] 185 
+
+CCLXXXV [convert to] 285 
+
+CCCLXXXV [convert to] 385 
+
+CDLXXXV [convert to] 485 
+
+DLXXXV [convert to] 585 
+
+DCLXXXV [convert to] 685 
+
+DCCLXXXV [convert to] 785 
+
+DCCCLXXXV [convert to] 885 
+
+CMLXXXV [convert to] 985 
+
+LXXXVI [convert to] 86 
+
+CLXXXVI [convert to] 186 
+
+CCLXXXVI [convert to] 286 
+
+CCCLXXXVI [convert to] 386 
+
+CDLXXXVI [convert to] 486 
+
+DLXXXVI [convert to] 586 
+
+DCLXXXVI [convert to] 686 
+
+DCCLXXXVI [convert to] 786 
+
+DCCCLXXXVI [convert to] 886 
+
+CMLXXXVI [convert to] 986 
+
+LXXXVII [convert to] 87 
+
+CLXXXVII [convert to] 187 
+
+CCLXXXVII [convert to] 287 
+
+CCCLXXXVII [convert to] 387 
+
+CDLXXXVII [convert to] 487 
+
+DLXXXVII [convert to] 587 
+
+DCLXXXVII [convert to] 687 
+
+DCCLXXXVII [convert to] 787 
+
+DCCCLXXXVII [convert to] 887 
+
+CMLXXXVII [convert to] 987 
+
+LXXXVIII [convert to] 88 
+
+CLXXXVIII [convert to] 188 
+
+CCLXXXVIII [convert to] 288 
+
+CCCLXXXVIII [convert to] 388 
+
+CDLXXXVIII [convert to] 488 
+
+DLXXXVIII [convert to] 588 
+
+DCLXXXVIII [convert to] 688 
+
+DCCLXXXVIII [convert to] 788 
+
+DCCCLXXXVIII [convert to] 888 
+
+CMLXXXVIII [convert to] 988 
+
+LXXXIX [convert to] 89 
+
+CLXXXIX [convert to] 189 
+
+CCLXXXIX [convert to] 289 
+
+CCCLXXXIX [convert to] 389 
+
+CDLXXXIX [convert to] 489 
+
+DLXXXIX [convert to] 589 
+
+DCLXXXIX [convert to] 689 
+
+DCCLXXXIX [convert to] 789 
+
+DCCCLXXXIX [convert to] 889 
+
+CMLXXXIX [convert to] 989 
+
+XC [convert to] 90 
+
+CXC [convert to] 190 
+
+CCXC [convert to] 290 
+
+CCCXC [convert to] 390 
+
+CDXC [convert to] 490 
+
+DXC [convert to] 590 
+
+DCXC [convert to] 690 
+
+DCCXC [convert to] 790 
+
+DCCCXC [convert to] 890 
+
+CMXC [convert to] 990 
+
+XCI [convert to] 91 
+
+CXCI [convert to] 191 
+
+CCXCI [convert to] 291 
+
+CCCXCI [convert to] 391 
+
+CDXCI [convert to] 491 
+
+DXCI [convert to] 591 
+
+DCXCI [convert to] 691 
+
+DCCXCI [convert to] 791 
+
+DCCCXCI [convert to] 891 
+
+CMXCI [convert to] 991 
+
+XCII [convert to] 92 
+
+CXCII [convert to] 192 
+
+CCXCII [convert to] 292 
+
+CCCXCII [convert to] 392 
+
+CDXCII [convert to] 492 
+
+DXCII [convert to] 592 
+
+DCXCII [convert to] 692 
+
+DCCXCII [convert to] 792 
+
+DCCCXCII [convert to] 892 
+
+CMXCII [convert to] 992 
+
+XCIII [convert to] 93 
+
+CXCIII [convert to] 193 
+
+CCXCIII [convert to] 293 
+
+CCCXCIII [convert to] 393 
+
+CDXCIII [convert to] 493 
+
+DXCIII [convert to] 593 
+
+DCXCIII [convert to] 693 
+
+DCCXCIII [convert to] 793 
+
+DCCCXCIII [convert to] 893 
+
+CMXCIII [convert to] 993 
+
+XCIV [convert to] 94 
+
+CXCIV [convert to] 194 
+
+CCXCIV [convert to] 294 
+
+CCCXCIV [convert to] 394 
+
+CDXCIV [convert to] 494 
+
+DXCIV [convert to] 594 
+
+DCXCIV [convert to] 694 
+
+DCCXCIV [convert to] 794 
+
+DCCCXCIV [convert to] 894 
+
+CMXCIV [convert to] 994 
+
+XCV [convert to] 95 
+
+CXCV [convert to] 195 
+
+CCXCV [convert to] 295 
+
+CCCXCV [convert to] 395 
+
+CDXCV [convert to] 495 
+
+DXCV [convert to] 595 
+
+DCXCV [convert to] 695 
+
+DCCXCV [convert to] 795 
+
+DCCCXCV [convert to] 895 
+
+CMXCV [convert to] 995 
+
+XCVI [convert to] 96 
+
+CXCVI [convert to] 196 
+
+CCXCVI [convert to] 296 
+
+CCCXCVI [convert to] 396 
+
+CDXCVI [convert to] 496 
+
+DXCVI [convert to] 596 
+
+DCXCVI [convert to] 696 
+
+DCCXCVI [convert to] 796 
+
+DCCCXCVI [convert to] 896 
+
+CMXCVI [convert to] 996 
+
+XCVII [convert to] 97 
+
+CXCVII [convert to] 197 
+
+CCXCVII [convert to] 297 
+
+CCCXCVII [convert to] 397 
+
+CDXCVII [convert to] 497 
+
+DXCVII [convert to] 597 
+
+DCXCVII [convert to] 697 
+
+DCCXCVII [convert to] 797 
+
+DCCCXCVII [convert to] 897 
+
+CMXCVII [convert to] 997 
+
+XCVIII [convert to] 98 
+
+CXCVIII [convert to] 198 
+
+CCXCVIII [convert to] 298 
+
+CCCXCVIII [convert to] 398 
+
+CDXCVIII [convert to] 498 
+
+DXCVIII [convert to] 598 
+
+DCXCVIII [convert to] 698 
+
+DCCXCVIII [convert to] 798 
+
+DCCCXCVIII [convert to] 898 
+
+CMXCVIII [convert to] 998 
+
+XCIX [convert to] 99 
+
+CXCIX [convert to] 199 
+
+CCXCIX [convert to] 299 
+
+CCCXCIX [convert to] 399 
+
+CDXCIX [convert to] 499 
+
+DXCIX [convert to] 599 
+
+DCXCIX [convert to] 699 
+
+DCCXCIX [convert to] 799 
+
+DCCCXCIX [convert to] 899 
+
+CMXCIX [convert to] 999 
+
+C [convert to] 100 
+
+CC [convert to] 200 
+
+CCC [convert to] 300 
+
+CD [convert to] 400 
+
+D [convert to] 500 
+
+DC [convert to] 600 
+
+DCC [convert to] 700 
+
+DCCC [convert to] 800 
+
+CM [convert to] 900 
+
+M [convert to] 1000 
+
+
+ Worked time is : 0.000000
+
+
+ [  end]43773, 13140527 
+
+
+[21:38:13 Mar 26 2018]01_leetcode_0003.c : 410, leave 
+
+
+ Current date and time is : Mon Mar 26 21:38:13 2018
+
+
+ Current date and time is : Mon Mar 26 21:38:13 2018
+

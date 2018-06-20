@@ -1,0 +1,19 @@
+@ECHO off
+@ECHO WORK_DIR=%CD%
+
+@SET difficulty=(easy medium hard)
+@SET languages=(c cpp)
+FOR %%d IN %difficulty% DO (
+FOR %%l IN %languages% DO (
+
+DEL /F /Q /S %WORK_DIR%\%%d\%%l\c0000\
+MD %WORK_DIR%\%%d\%%l\c0000\
+
+XCOPY /A /B /Y /F /R /C %WORK_DIR%\template\languages\%%l\c0000\* %WORK_DIR%\%%d\%%l\c0000\
+XCOPY /A /B /Y /F /R /C %WORK_DIR%\template\win32\leetcode_all_%%d.dirs %WORK_DIR%\%%d\%%l\
+
+
+)
+)
+
+
